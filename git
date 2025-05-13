@@ -1,1 +1,2 @@
 git init
+git remote add origin https://github.com/untumfin@gmail.com/untum-waste-management.git
